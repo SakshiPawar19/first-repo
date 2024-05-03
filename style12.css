@@ -1,4 +1,11 @@
-.as{
-    color: rgb(28, 147, 67);
-    background-color: rgb(235, 226, 226);
-}
+    .bg-yellow{
+     background-color: yellow;
+     color: brown;
+        }
+    .bg-blue{
+     color: blueviolet;
+     background-color: blue;
+    }
+    .bg-pink{
+     background-color: hotpink; color: blueviolet;
+    }
